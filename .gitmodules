@@ -1,0 +1,3 @@
+[submodule "planets"]
+	path = planets
+	url = git@github.com:shumeA/planets.git
